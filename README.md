@@ -28,7 +28,7 @@ A Telegram bot that helps you plan a sightseeing trip around Belarus. Pick a reg
 1. Clone the repo:
 
    ```
-   git clone https://github.com/<your-username>/belarus-trip-bot.git
+   git clone https://github.com/dran1k-default/belarus-trip-bot.git
    cd belarus-trip-bot
    ```
 
