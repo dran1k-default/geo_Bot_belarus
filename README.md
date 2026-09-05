@@ -28,8 +28,8 @@ A Telegram bot that helps you plan a sightseeing trip around Belarus. Pick a reg
 1. Clone the repo:
 
    ```
-   git clone https://github.com/dran1k-default/belarus-trip-bot.git
-   cd belarus-trip-bot
+   git clone https://github.com/dran1k-default/geo_Bot_belarus.git
+   cd geo_Bot_belarus
    ```
 
 2. Install dependencies:
