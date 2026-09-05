@@ -1,6 +1,15 @@
 # BelarusTripBot 🇧🇾
 
 A Telegram bot that helps you plan a sightseeing trip around Belarus. Pick a region, browse attractions pulled live from **Wikipedia** with photos and descriptions, save the ones you like, and get a ready-to-open **Google Maps** route through them.
+<p align="left">
+  <img src="https://github.com/dran1k-default/geo_Bot_belarus/blob/main/IMG_2570.PNG" height="250">
+  <img src="https://github.com/dran1k-default/geo_Bot_belarus/blob/main/IMG_2571.PNG" height="250">
+  <img src="https://github.com/dran1k-default/geo_Bot_belarus/blob/main/IMG_2572.PNG" height="250">
+  <img src="https://github.com/dran1k-default/geo_Bot_belarus/blob/main/IMG_2573.PNG" height="250">
+  <img src="https://github.com/dran1k-default/geo_Bot_belarus/blob/main/IMG_2574.PNG" height="250">
+  <img src="https://github.com/dran1k-default/geo_Bot_belarus/blob/main/IMG_2575.PNG" height="250">
+</p>
+
 
 ## Features
 
